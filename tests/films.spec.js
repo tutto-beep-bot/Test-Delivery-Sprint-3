@@ -8,7 +8,7 @@ const {
   moviesAverageByCategory,
   hoursToMinutes,
   bestFilmOfYear,
-} = require('../../films');
+} = require('../films');
 
 // Exercise 1
 describe('Function "getAllDirectors"', () => {
